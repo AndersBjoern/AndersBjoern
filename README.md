@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersBjoern)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="http://google.com.au/" rel="some text">![Foo](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg)</a>
