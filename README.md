@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersBjoern)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://open.spotify.com/user/11136638575?si=TH1cjVq4RRe5Xmjjk_vw-g"> <img height="32" width="32" alt="Spotify" style="color:#1ED760" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> </a>
+<a href="https://open.spotify.com/user/11136638575?si=TH1cjVq4RRe5Xmjjk_vw-g"> <img height="32" width="32" alt="Spotify" style="background-color:#1ED760" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> </a>
