@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersBjoern)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://open.spotify.com/user/11136638575?si=TH1cjVq4RRe5Xmjjk_vw-g"> <img height="32" width="32" alt="Spotify" style="background-color:#1ED760" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> </a>
+
+   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
