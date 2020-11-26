@@ -20,7 +20,7 @@ Unity, spotify, c#, JS, HTML, CSS, Sass, Node,
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="375" height="300">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersBjoern)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndersBjoern&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://open.spotify.com/user/11136638575?si=TH1cjVq4RRe5Xmjjk_vw-g"> <img height="32" width="32" alt="Spotify" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" /> </a>
 
@@ -34,5 +34,6 @@ Unity, spotify, c#, JS, HTML, CSS, Sass, Node,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
 
